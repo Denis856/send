@@ -246,14 +246,6 @@
    .page12_text {
       width: 220px;
    }
-   .p12 {
-      background: #232121;
-      padding: 50px 0 70px 0;
-   }
-   .footer {
-      background: #060507;
-      padding: 30px 0 40px 0;
-   }
 }
 
 @media(max-width: 650px) {
@@ -321,9 +313,6 @@
    .text {
       font-size: 13px;
       line-height: 20px;
-   }
-   .p1 {
-      padding: 50px 0 20px 0;
    }
    .page1_text {
       width: 160px;
