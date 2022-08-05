@@ -121,12 +121,6 @@
    .title1 {
       font-size: 49px;
    }
-   .input1, .label1 {
-      transform:translateX(170px);
-   }
-   .input2, .label2 {
-      transform:translateX(150px);
-   }
    .input {
       width: 310px;
       height: 55px;
@@ -281,12 +275,6 @@
    .title1 {
       font-size: 40px;
    }
-   .input1, .label1 {
-      transform:translateX(140px);
-   }
-   .input2, .label2 {
-      transform:translateX(125px);
-   }
    .input {
       width: 280px;
       height: 50px;
@@ -297,6 +285,9 @@
    }
    .form>*:not(:last-child) {
       margin: 0 0 40px 0;
+   }
+   .div {
+      width: 650px;
    }
 }
 
@@ -390,12 +381,6 @@
    .title1 {
       font-size: 35px;
    }
-   .input1, .label1 {
-      transform:translateX(115px);
-   }
-   .input2, .label2 {
-      transform:translateX(100px);
-   }
    .input {
       width: 280px;
       height: 50px;
@@ -430,6 +415,9 @@
    }
    .page12_text {
       width: 270px;
+   }
+   .div {
+      width: 600px;
    }
 }
 
@@ -524,12 +512,6 @@
          width: 260px;
          height: 280px;
       }
-      .input1, .label1 {
-         transform:translateX(88px);
-      }
-      .input2, .label2 {
-         transform:translateX(78px);
-      }
       .input {
          width: 250px;
          height: 40px;
@@ -543,6 +525,9 @@
       }
       .btn2 {
          width: 190px;
+      }
+      .div {
+         width: 500px;
       }
 }
 
@@ -626,6 +611,9 @@
       font-size: 30px;
       margin-bottom: -20px;
    }
+   .div {
+      width: 450px;
+   }
 }
 
 @media(max-width: 480px) {
@@ -701,12 +689,6 @@
       font-size: 25px;
       margin-bottom: -40px;
    }
-   .input1, .label1 {
-      transform:translateX(65px);
-   }
-   .input2, .label2 {
-      transform:translateX(58px);
-   }
    .input {
       width: 150px;
       height: 30px;
@@ -723,6 +705,9 @@
    }
    .btn2 {
       width: 150px;
+   }
+   .div {
+      width: 400px;
    }
 }
 
@@ -756,6 +741,9 @@
       width: 170px;
       height: 100px;
    }
+   .div {
+      width: 350px;
+   }
 }
 
 @media(max-width: 350px) {
@@ -787,6 +775,9 @@
    .page22_img {
       width: 150px;
       height: 100px;
+   }
+   .div {
+      width: 300px;
    }
 }
 
@@ -829,12 +820,6 @@
       padding: 6px 20px;
       width: 100px;
    }
-   .input1, .label1 {
-      transform:translateX(55px);
-   }
-   .input2, .label2 {
-      transform:translateX(48px);
-   }
    .input {
       width: 100px;
       height: 20px;
@@ -852,6 +837,9 @@
    .btn2 {
       padding: 7px 30px;
       width: 100px;
+   }
+   .div {
+      width: 290px;
    }
 }
 
@@ -878,5 +866,8 @@
    .title1 {
       font-size: 20px;
       margin-bottom: -60px;
+   }
+   .div {
+      width: 280px;
    }
 }
