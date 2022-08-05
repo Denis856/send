@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Self 15</title>
+   <title>Self 1</title>
    <link rel="stylesheet" href="css/style.css">
    <link rel="stylesheet" href="css/media.css">
 </head>
@@ -28,6 +28,21 @@
          </div>
       </div>
    </header>
+   <div class="p1">
+      <div class="container">
+         <div class="page1 center31">
+            <div class="page1_text">
+               <h3 class="page1_title title">
+                  Наш слоган.
+               </h3>
+               <p class="page1_text text">
+                  С надёжностью наших компьютеров может соперничать только верность проститутки!
+               </p>
+            </div>
+            <div class="page1_img page1"></div>
+         </div>
+      </div>
+   </div>
    <header class="header2">
       <div class="container">
          <nav class="nav">
@@ -61,36 +76,14 @@
          </nav>
       </div>
    </header>
-   <div class="p1">
+   <div class="p12">
       <div class="container">
-         <h3 class="title1 center">
-            Регистрация
-         </h3>
-         <div class="form0 center2">
-            <form action="#" class="form">
-               <div class="div center31">
-                  <div class="div1">
-                     <label for="input1" class="label label1 text">Логин:</label>
-                  </div>
-                  <input class="input input1 text" type="text">
-               </div>
-               <div class="div center31">
-                  <div class="div1">
-                     <label for="input2" class="label label2 text">Пароль:</label>
-                  </div>
-                  <input class="input input2 text" type="password">
-               </div>
-               <div class="div center31">
-                  <div class="div1">
-                     <label for="input3" class="label text">Повторите пароль:</label>
-                  </div>
-                  <input class="input input3 text" type="password">
-               </div>
-               <div class="btn5 center2">
-                  <button class="btn2 text" type="submit">Отправить</button>
-               </div>
-         </form>
-      </div>
+         <div class="page12 center31">
+            <div class="page12_img"></div>
+            <div class="page12_text text">
+               Наши специалисты помогут вам в подборе компьютера, с нужными параметрами.
+            </div>
+         </div>
       </div>
    </div>
    <footer class="footer">
