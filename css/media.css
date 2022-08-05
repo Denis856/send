@@ -1,0 +1,882 @@
+@media(max-width: 1780px) {
+   .page1_img {
+      width: 700px;
+      height: 580px;
+   }
+   .page22_img {
+      width: 700px;
+      height: 490px;
+   }
+}
+
+@media(max-width: 1700px) {
+   .container {
+      padding: 0 200px;
+   }
+}
+
+@media(max-width: 1650px) {
+   .page22_img {
+      width: 670px;
+      height: 460px;
+   }
+}
+
+@media(max-width: 1600px) {
+   .container {
+      padding: 0 150px;
+   }
+}
+
+@media(max-width: 1550px) {
+   .page1_img {
+      width: 650px;
+      height: 530px;
+   }
+}
+
+@media(max-width: 1500px) {
+   .container {
+      padding: 0 100px;
+   }
+}
+
+@media(max-width: 1430px) {
+   .page22_img {
+      width: 630px;
+      height: 420px;
+   }
+   .block {
+      width: 350px;
+      height: 690px;
+   }
+   .bl_img img {
+      width: 320px;
+      height: 340px;
+   }
+}
+
+@media(max-width: 1420px) {
+   .page1_img {
+      width: 600px;
+      height: 480px;
+   }
+   .page12_text {
+      width: 503px;
+   }
+}
+
+@media(max-width: 1370px) {
+   .page22_img {
+      width: 590px;
+      height: 380px;
+   }
+}
+
+@media(max-width: 1300px) {
+   .text_head {
+      font-size: 29px;
+   }
+   .title {
+      font-size: 40px;
+   }
+   .text {
+      font-size: 29px;
+   }
+   .page1_text {
+      width: 450px;
+   }
+   .page1_title {
+      margin: 0 0 40px 0;
+   }
+   .page1_img {
+      width: 530px;
+      height: 410px;
+   }
+   .nav_link {
+      font-size: 25px;
+   }
+   .page12_img {
+      width: 402px;
+      height: 259px;
+   }
+   .page12_text {
+      width: 450px;
+   }
+   .footer_title {
+      margin: 0 0 30px 0;
+   }
+   .page22_img {
+      width: 540px;
+      height: 330px;
+   }
+   .block {
+      width: 300px;
+      height: 640px;
+   }
+   .bl_img img {
+      width: 280px;
+      height: 300px;
+   }
+   .title1 {
+      font-size: 49px;
+   }
+   .input1, .label1 {
+      transform:translateX(170px);
+   }
+   .input2, .label2 {
+      transform:translateX(150px);
+   }
+   .input {
+      width: 310px;
+      height: 55px;
+      background: #D9D9D9;
+   }
+   .form {
+      margin: 160px 0 0 0;
+   }
+}
+
+@media(max-width: 1200px) {
+   .page1_text {
+      width: 400px;
+   }
+   .page1_title {
+      margin: 0 0 30px 0;
+   }
+   .page1_img {
+      width: 450px;
+      height: 360px;
+   }
+}
+
+@media(max-width: 1160px) {
+   .page22_img {
+      width: 480px;
+      height: 280px;
+   }
+}
+
+@media(max-width: 1130px) {
+   .block {
+      width: 300px;
+      height: 640px;
+   }
+   .bl_img img {
+      width: 280px;
+      height: 300px;
+   }
+}
+
+@media(max-width: 1100px) {
+   .container {
+      padding: 0 50px;
+   }
+   .page12_img {
+      width: 390px;
+      height: 240px;
+   }
+   .page12_text {
+      width: 400px;
+   }
+}
+
+@media(max-width: 1050px) {
+   .page22_img {
+      width: 450px;
+      height: 250px;
+   }
+   .page21 {
+      height: 100%;
+      padding: 0 0 30px 0;
+   }
+   .blocks {
+      flex-wrap: wrap;
+      justify-content: center;
+   }
+   .blocks>*:not(:last-child) {
+      margin: 0 20px 140px 0;
+   }
+   .bl_all:nth-child(3) {
+      transform: translateY(-70px);
+   }
+}
+
+@media(max-width: 1039px) {
+   .bl_all:nth-child(3) {
+      transform: translateY(0px);
+   }
+}
+
+@media(max-width: 980px) {
+   .page22_img {
+      width: 420px;
+      height: 220px;
+   }
+}
+
+@media(max-width: 950px) {
+   .text_head {
+      font-size: 25px;
+   }
+   .head2>*:not(:last-child) {
+      margin-right: 20px;
+   }
+   .link_bask img {
+      width: 50px;
+      transform: translateY(22px);
+   }
+   .title {
+      font-size: 35px;
+      line-height: 40px;
+   }
+   .text {
+      font-size: 24px;
+      line-height: 40px;
+   }
+   .page1_text {
+      width: 350px;
+   }
+   .page1_title {
+      margin: 0 0 25px 0;
+   }
+   .page1_img {
+      width: 410px;
+      height: 310px;
+   }
+   .nav_link {
+      font-size: 20px;
+   }
+   .page12_img {
+      width: 350px;
+      height: 200px;
+   }
+   .page12_text {
+      width: 350px;
+   }
+   .footer_title {
+      margin: 0 0 20px 0;
+   }
+   .footer_link img {
+      width: 60px;
+   }
+   .footer_soc>*:not(:last-child) {
+      margin-right: 40px;
+   }
+   .bl_text {
+      margin: 20px 0 0 0;
+      height: 180px;
+   }
+   .block {
+      width: 300px;
+      height: 570px;
+   }
+   .bl_img img {
+      width: 280px;
+      height: 300px;
+   }
+   .blocks>*:not(:last-child) {
+      margin: 0 20px 100px 0;
+   }
+   .title1 {
+      font-size: 40px;
+   }
+   .input1, .label1 {
+      transform:translateX(140px);
+   }
+   .input2, .label2 {
+      transform:translateX(125px);
+   }
+   .input {
+      width: 280px;
+      height: 50px;
+      background: #D9D9D9;
+   }
+   .form {
+      margin: 110px 0 0 0;
+   }
+   .form>*:not(:last-child) {
+      margin: 0 0 40px 0;
+   }
+}
+
+@media(max-width: 880px) {
+   .page22_img {
+      width: 380px;
+      height: 200px;
+   }
+}
+
+@media(max-width: 860px) {
+   .title {
+      line-height: 35px;
+   }
+   .text {
+      line-height: 35px;
+   }
+   .page1_text {
+      width: 300px;
+   }
+   .page1_img {
+      width: 370px;
+      height: 270px;
+   }
+}
+
+@media(max-width: 850px) {
+   .text_head {
+      font-size: 20px;
+   }
+   .link_bask img {
+      width: 40px;
+      transform: translateY(25px);
+   }
+   .page12_img {
+      width: 300px;
+      height: 170px;
+   }
+   .page12_text {
+      width: 300px;
+   }
+}
+
+@media(max-width: 780px) {
+   .title {
+      font-size: 30px;
+      line-height: 30px;
+   }
+   .text {
+      font-size: 19px;
+      line-height: 30px;
+   }
+   .page1_text {
+      width: 250px;
+   }
+   .page1_title {
+      margin: 0 0 25px 0;
+   }
+   .page1_img {
+      width: 320px;
+      height: 220px;
+   }
+   .nav_link {
+      font-size: 17px;
+   }
+   .footer_link img {
+      width: 40px;
+   }
+   .footer_soc>*:not(:last-child) {
+      margin-right: 20px;
+   }
+   .page22_img {
+      width: 330px;
+      height: 160px;
+   }
+   .bl_text {
+      margin: 20px 0 0 0;
+      height: 140px;
+   }
+   .block {
+      width: 280px;
+      height: 510px;
+   }
+   .bl_img img {
+      width: 260px;
+      height: 280px;
+   }
+   .blocks>*:not(:last-child) {
+      margin: 0 20px 80px 0;
+   }
+   .title1 {
+      font-size: 35px;
+   }
+   .input1, .label1 {
+      transform:translateX(115px);
+   }
+   .input2, .label2 {
+      transform:translateX(100px);
+   }
+   .input {
+      width: 280px;
+      height: 50px;
+      background: #D9D9D9;
+   }
+   .form {
+      margin: 110px 0 0 0;
+   }
+   .form>*:not(:last-child) {
+      margin: 0 0 40px 0;
+   }
+   .label {
+      margin-right: 20px;
+   }
+   .btn2 {
+      width: 250px;
+   }
+}
+
+@media(max-width: 780px) {
+   .page1_img {
+      width: 270px;
+      height: 170px;
+      background-size: contain;
+   }
+}
+
+@media(max-width: 750px) {
+   .page12_img {
+      width: 270px;
+      height: 150px;
+   }
+   .page12_text {
+      width: 270px;
+   }
+}
+
+@media(max-width: 700px) {
+   .header1 {
+      padding: 15px 0;
+   }
+   .header2 {
+      padding: 20px 0;
+   }
+   .page12_img {
+      width: 230px;
+      height: 110px;
+   }
+   .page12_text {
+      width: 220px;
+   }
+   .page22_img {
+      width: 300px;
+      height: 140px;
+   }
+   .bl_all:nth-child(3) {
+      transform: translateY(-40px);
+   }
+}
+
+@media(max-width: 679px) {
+   .bl_all:nth-child(3) {
+      transform: translateY(0px) translateX(-12px);
+   }
+}
+
+@media(max-width: 650px) {
+   .text_head {
+      font-size: 17px;
+   }
+   .head2>*:not(:last-child) {
+      margin-right: 10px;
+   }
+   .link_bask img {
+      width: 30px;
+      transform: translateY(32px);
+   }
+      .title {
+         font-size: 25px;
+         line-height: 25px;
+      }
+      .text {
+         font-size: 14px;
+         line-height: 25px;
+      }
+      .page1_text {
+         width: 200px;
+      }
+      .page1_title {
+         margin: 0 0 23px 0;
+      }
+      .page1_img {
+         width: 270px;
+         height: 170px;
+         background-size: contain;
+      }
+      .nav_link {
+         font-size: 14px;
+      }
+      .footer_link img {
+         width: 35px;
+      }
+      .footer_soc>*:not(:last-child) {
+         margin-right: 19px;
+      }
+      .p1 {
+         padding: 70px 0 50px 0;
+      }
+      .p12 {
+         background: #232121;
+         padding: 70px 0 50px 0;
+      }
+      .page22_img {
+         width: 250px;
+         height: 130px;
+      }
+      .bl_text {
+         margin: 20px 0 0 0;
+         height: 100px;
+      }
+      .block {
+         width: 280px;
+         height: 460px;
+      }
+      .bl_img img {
+         width: 260px;
+         height: 280px;
+      }
+      .input1, .label1 {
+         transform:translateX(85px);
+      }
+      .input2, .label2 {
+         transform:translateX(75px);
+      }
+      .input {
+         width: 250px;
+         height: 40px;
+         background: #D9D9D9;
+      }
+      .form {
+         margin: 70px 0 0 0;
+      }
+      .form>*:not(:last-child) {
+         margin: 0 0 40px 0;
+      }
+      .btn2 {
+         width: 190px;
+      }
+}
+
+@media(max-width: 600px) {
+   .container {
+      padding: 0 20px;
+   }
+}
+
+@media(max-width: 520px) {
+   .text_head {
+      font-size: 14px;
+   }
+   .head2>*:not(:last-child) {
+      margin-right: 7px;
+   }
+   .link_bask img {
+      width: 25px;
+      transform: translateY(35px);
+   }
+   .title {
+      font-size: 23px;
+      line-height: 20px;
+   }
+   .text {
+      font-size: 13px;
+      line-height: 20px;
+   }
+   .page1_text {
+      width: 180px;
+   }
+   .page1_img {
+      transform: translateX(50px);
+   }
+   .nav_link {
+      font-size: 12px;
+   }
+   .header1 {
+      height: 50px;
+   }
+   .head {
+      transform: translateY(-35px);
+   }
+   .header2 {
+      height: 50px;
+   }
+   .nav {
+      transform: translateY(-20px);
+   }
+   .page12_img {
+      width: 190px;
+      height: 90px;
+   }
+   .page12_text {
+      width: 190px;
+   }
+   .page22_img {
+      width: 200px;
+      height: 110px;
+   }
+   .bl_text {
+      margin: 20px 0 0 0;
+      height: 60px;
+   }
+   .block {
+      width: 280px;
+      height: 400px;
+   }
+   .bl_img img {
+      width: 260px;
+      height: 280px;
+   }
+   .blocks>*:not(:last-child) {
+      margin: 0 20px 80px 0;
+   }
+   .bl_btn {
+      padding: 6px 20px;
+      width: 100px;
+   }
+   .title1 {
+      font-size: 30px;
+      margin-bottom: -20px;
+   }
+}
+
+@media(max-width: 480px) {
+   .page1_img {
+      width: 250px;
+      height: 150px;
+   }
+}
+
+@media(max-width: 450px) {
+   .title {
+      font-size: 18px;
+      line-height: 20px;
+   }
+   .text {
+      font-size: 10px;
+      line-height: 20px;
+   }
+   .page1_text {
+      width: 160px;
+   }
+   .page1_img {
+      width: 220px;
+      height: 120px;
+   }
+   .nav_link {
+      font-size: 10px;
+      letter-spacing: .5px;
+   }
+   .page12_img {
+      width: 160px;
+      height: 70px;
+   }
+   .page12_text {
+      width: 170px;
+   }
+   .footer {
+      padding: 20px 0 30px 0;
+   }
+   .footer_link img {
+      width: 25px;
+   }
+   .footer_soc>*:not(:last-child) {
+      margin-right: 17px;
+   }
+   .footer_title {
+      margin: 0 0 15px 0;
+   }
+   .page22_img {
+      width: 180px;
+      height: 100px;
+   }
+   .bl_text {
+      margin: 20px 0 0 0;
+      height: 60px;
+   }
+   .block {
+      width: 220px;
+      height: 320px;
+   }
+   .bl_img img {
+      width: 200px;
+      height: 200px;
+   }
+   .blocks>*:not(:last-child) {
+      margin: 0 20px 70px 0;
+   }
+   .bl_btn {
+      padding: 6px 20px;
+      width: 100px;
+   }
+   .title1 {
+      font-size: 25px;
+      margin-bottom: -40px;
+   }
+   .input1, .label1 {
+      transform:translateX(65px);
+   }
+   .input2, .label2 {
+      transform:translateX(58px);
+   }
+   .input {
+      width: 150px;
+      height: 30px;
+      background: #D9D9D9;
+   }
+   .form {
+      margin: 70px 0 0 0;
+   }
+   .form>*:not(:last-child) {
+      margin: 0 0 30px 0;
+   }
+   .label {
+      margin-top: 5px;
+   }
+   .btn2 {
+      width: 150px;
+   }
+}
+
+@media(max-width: 400px) {
+   .text_head {
+      font-size: 12px;
+   }
+   .link_bask img {
+      width: 20px;
+      transform: translateY(37px);
+   }
+   .page1_text {
+      width: 120px;
+   }
+   .title {
+      font-size: 18px;
+      line-height: 12px;
+   }
+   .text {
+      font-size: 10px;
+      line-height: 12px;
+   }
+   .page12_img {
+      width: 140px;
+      height: 60px;
+   }
+   .page12_text {
+      width: 140px;
+   }
+   .page22_img {
+      width: 170px;
+      height: 100px;
+   }
+}
+
+@media(max-width: 350px) {
+   .text_head {
+      font-size: 10px;
+   }
+   .head2>*:not(:last-child) {
+      margin-right: 5px;
+   }
+   .link_bask img {
+      width: 17px;
+      transform: translateY(39px);
+   }
+   .page1_img {
+      width: 200px;
+      height: 100px;
+   }
+   .nav_link {
+      font-size: 8px;
+      letter-spacing: .5px;
+   }
+   .page12_img {
+      width: 130px;
+      height: 50px;
+   }
+   .page12_text {
+      width: 120px;
+   }
+   .page22_img {
+      width: 150px;
+      height: 100px;
+   }
+}
+
+@media(max-width: 320px) {
+   .title {
+      font-size: 15px;
+      line-height: 12px;
+   }
+   .text {
+      font-size: 8px;
+      line-height: 12px;
+   }
+   .page12_img {
+      width: 110px;
+      height: 40px;
+   }
+   .page12_text {
+      width: 100px;
+   }
+   .page22_img {
+      width: 140px;
+      height: 80px;
+   }
+   .bl_text {
+      margin: 20px 0 0 0;
+      height: 40px;
+   }
+   .block {
+      width: 180px;
+      height: 250px;
+   }
+   .bl_img img {
+      width: 160px;
+      height: 160px;
+   }
+   .blocks>*:not(:last-child) {
+      margin: 0 20px 70px 0;
+   }
+   .bl_btn {
+      padding: 6px 20px;
+      width: 100px;
+   }
+   .input1, .label1 {
+      transform:translateX(55px);
+   }
+   .input2, .label2 {
+      transform:translateX(48px);
+   }
+   .input {
+      width: 100px;
+      height: 20px;
+      background: #D9D9D9;
+   }
+   .form {
+      margin: 70px 0 0 0;
+   }
+   .form>*:not(:last-child) {
+      margin: 0 0 30px 0;
+   }
+   .label {
+      margin-right: 10px;
+   }
+   .btn2 {
+      padding: 7px 30px;
+      width: 100px;
+   }
+}
+
+@media(max-width: 300px) {
+   .container {
+      padding: 0 10px;
+   }
+   .page1_img {
+      transform: translateX(40px);
+   }
+   .footer_link img {
+      width: 20px;
+   }
+   .footer_soc>*:not(:last-child) {
+      margin-right: 15px;
+   }
+   .footer_title {
+      margin: 0 0 12px 0;
+   }
+   .page22_img {
+      width: 130px;
+      height: 80px;
+   }
+   .title1 {
+      font-size: 20px;
+      margin-bottom: -60px;
+   }
+}
