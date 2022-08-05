@@ -493,11 +493,11 @@
          margin-right: 19px;
       }
       .p1 {
-         padding: 110px 0 90px 0;
+         padding: 120px 0 100px 0;
       }
       .p12 {
          background: #232121;
-         padding: 110px 0 90px 0;
+         padding: 120px 0 100px 0;
       }
       .page22_img {
          width: 250px;
@@ -690,7 +690,6 @@
    }
    .title1 {
       font-size: 25px;
-      margin-bottom: -40px;
    }
    .input {
       width: 150px;
@@ -865,7 +864,6 @@
    }
    .title1 {
       font-size: 20px;
-      margin-bottom: -60px;
    }
    .div {
       width: 200px;
