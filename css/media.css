@@ -525,10 +525,10 @@
          height: 280px;
       }
       .input1, .label1 {
-         transform:translateX(85px);
+         transform:translateX(88px);
       }
       .input2, .label2 {
-         transform:translateX(75px);
+         transform:translateX(78px);
       }
       .input {
          width: 250px;
