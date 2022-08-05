@@ -313,9 +313,6 @@ a {
 .form>*:not(:last-child) {
    margin: 0 0 63px 0;
 }
-.label {
-   margin-right: 40px;
-}
 .input {
    width: 396px;
    height: 67px;
