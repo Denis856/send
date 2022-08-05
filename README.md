@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -49,27 +48,27 @@
          <nav class="nav">
             <ul class="ul center3">
                <li class="li">
-                  <a href="#" class="nav_link">
+                  <a href="index2.html" class="nav_link">
                      О нас
                   </a>
                </li>
                <li class="li">
-                  <a href="#" class="nav_link">
+                  <a href="index3.html" class="nav_link">
                      Каталог
                   </a>
                </li>
                <li class="li">
-                  <a href="#" class="nav_link">
+                  <a href="index4.html" class="nav_link">
                      Доставка
                   </a>
                </li>
                <li class="li">
-                  <a href="#" class="nav_link">
+                  <a href="index6.html" class="nav_link">
                      Гарантия
                   </a>
                </li>
                <li class="li">
-                  <a href="#" class="nav_link">
+                  <a href="index5.html" class="nav_link">
                      Регистрация
                   </a>
                </li>
@@ -81,7 +80,7 @@
       <div class="container">
          <div class="page12 center31">
             <div class="page12_img"></div>
-            <div class="page12_text text">
+            <div class="page12_text text121">
                Наши специалисты помогут вам в подборе компьютера, с нужными параметрами.
             </div>
          </div>
