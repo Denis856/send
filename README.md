@@ -80,7 +80,7 @@
       <div class="container">
          <div class="page12 center31">
             <div class="page12_img"></div>
-            <div class="page12_text text121">
+            <div class="page12_text text">
                Наши специалисты помогут вам в подборе компьютера, с нужными параметрами.
             </div>
          </div>
