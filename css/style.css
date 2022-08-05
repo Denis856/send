@@ -324,12 +324,6 @@ a {
 .input:focus {
    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
 }
-.input1, .label1 {
-   transform:translateX(205px);
-}
-.input2, .label2 {
-   transform:translateX(185px);
-}
 .btn2 {
    padding: 6px 37px;
    background: #479540;
@@ -344,6 +338,9 @@ a {
 .btn2:active {
    background: #a3e19e;
    color: rgb(179, 166, 166);
+}
+.div {
+   width: 790px;
 }
 
 /* Регистрация end */
